@@ -1,1 +1,1 @@
-# CLI-note-maker-using-Node.js
+Make short notes quickly right from the terminal
